@@ -1,6 +1,7 @@
-# Chat bot with history
+# Chat bot with memory and history
 
-A simple command-line AI assistant built with LangChain and Groq using the GPT-OSS-20B model with chat history.
+
+A simple command-line AI assistant built with LangChain and Groq using the GPT-OSS-20B model with chat history and memory
 
 ## Features
 
